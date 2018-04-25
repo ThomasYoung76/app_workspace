@@ -1,0 +1,84 @@
+2017-11-29 10:16:09 INFO app.py __init__ [line:31] Starting App
+2017-11-29 10:16:47 INFO app.py app_login [line:75] User is already logined. user: 系统管理员
+2017-11-29 10:16:49 INFO app.py app_menu [line:337] Enter menu surface
+2017-11-29 10:16:50 INFO app.py app_menu [line:342] Enter user surface
+2017-11-29 10:16:52 INFO app.py app_setting_user [line:457] Enter Add User Surface in User Manage
+2017-11-29 10:17:20 INFO app.py app_add_user [line:632] Add user with args. name: 6, type: 调试员. password: 12345678. password_again: 12345678. time_spinning: None. is_save: True
+2017-11-29 10:17:21 INFO app.py app_add_user [line:636] Add user success. user name: 6. user type: 调试员
+2017-11-29 10:17:21 INFO app.py app_setting_user [line:454] Enter Edit User Surface in User Manage Surface by user name. user name: 6
+2017-11-29 10:17:22 INFO app.py app_edit_user [line:468] Edit User. Edit type: delete_btn
+2017-11-29 10:17:24 INFO app.py app_setting_user [line:457] Enter Add User Surface in User Manage
+2017-11-29 10:17:54 INFO app.py app_add_user [line:632] Add user with args. name: abc1 dd4, type: 调试员. password: 12345678. password_again: 12345678. time_spinning: None. is_save: True
+2017-11-29 10:17:55 INFO app.py app_add_user [line:636] Add user success. user name: abc1 dd4. user type: 调试员
+2017-11-29 10:17:56 INFO app.py app_setting_user [line:454] Enter Edit User Surface in User Manage Surface by user name. user name: abc1 dd4
+2017-11-29 10:17:57 INFO app.py app_edit_user [line:468] Edit User. Edit type: delete_btn
+2017-11-29 10:18:00 INFO app.py app_setting_user [line:457] Enter Add User Surface in User Manage
+2017-11-29 10:18:28 INFO app.py app_add_user [line:632] Add user with args. name: ai1, type: 调试员. password: 12345678. password_again: 12345678. time_spinning: None. is_save: True
+2017-11-29 10:18:29 INFO app.py app_add_user [line:636] Add user success. user name: ai1. user type: 调试员
+2017-11-29 10:18:30 INFO app.py app_setting_user [line:454] Enter Edit User Surface in User Manage Surface by user name. user name: ai1
+2017-11-29 10:18:31 INFO app.py app_edit_user [line:468] Edit User. Edit type: delete_btn
+2017-11-29 10:18:35 WARNING app.py app_is_main_page [line:529] app is not in main page now.
+2017-11-29 10:18:50 WARNING app.py app_is_main_page [line:529] app is not in main page now.
+2017-11-29 10:18:51 INFO app.py app_is_main_page [line:526] app is in main page now.
+2017-11-29 10:18:57 INFO app.py app_login [line:75] User is already logined. user: 系统管理员
+2017-11-29 10:18:57 INFO app.py app_menu [line:337] Enter menu surface
+2017-11-29 10:18:58 INFO app.py app_menu [line:342] Enter user surface
+2017-11-29 10:19:00 INFO app.py app_setting_user [line:457] Enter Add User Surface in User Manage
+2017-11-29 10:19:28 INFO app.py app_add_user [line:632] Add user with args. name: Xx32, type: 调试员. password: 12345678. password_again: 12345678. time_spinning: None. is_save: True
+2017-11-29 10:19:30 INFO app.py app_add_user [line:636] Add user success. user name: Xx32. user type: 调试员
+2017-11-29 10:19:31 INFO app.py app_setting_user [line:457] Enter Add User Surface in User Manage
+2017-11-29 10:19:46 INFO app.py app_add_user [line:632] Add user with args. name: None, type: 值班管理员. password: 123456. password_again: 123456. time_spinning: None. is_save: True
+2017-11-29 10:19:52 WARNING app.py app_add_user [line:639] Add user fail.
+2017-11-29 10:20:07 INFO app.py app_add_user [line:632] Add user with args. name: None, type: 值班管理员. password: 123456. password_again: 123456. time_spinning: None. is_save: True
+2017-11-29 10:20:13 WARNING app.py app_add_user [line:639] Add user fail.
+2017-11-29 10:20:27 INFO app.py app_add_user [line:632] Add user with args. name: None, type: 值班管理员. password: 123456. password_again: 123456. time_spinning: None. is_save: True
+2017-11-29 10:20:33 WARNING app.py app_add_user [line:639] Add user fail.
+2017-11-29 10:20:43 INFO app.py app_add_user [line:632] Add user with args. name: 1240as, type: 值班员. password: None. password_again: None. time_spinning: None. is_save: True
+2017-11-29 10:20:48 WARNING app.py app_add_user [line:639] Add user fail.
+2017-11-29 10:20:56 WARNING app.py app_is_main_page [line:529] app is not in main page now.
+2017-11-29 10:21:09 WARNING app.py app_is_main_page [line:529] app is not in main page now.
+2017-11-29 10:21:10 INFO app.py app_is_main_page [line:526] app is in main page now.
+2017-11-29 10:21:16 INFO app.py app_login [line:75] User is already logined. user: 系统管理员
+2017-11-29 10:21:16 INFO app.py app_menu [line:337] Enter menu surface
+2017-11-29 10:21:18 INFO app.py app_menu [line:342] Enter user surface
+2017-11-29 10:21:19 INFO app.py app_setting_user [line:457] Enter Add User Surface in User Manage
+2017-11-29 10:21:20 INFO app.py app_is_display [line:500] Text is displayed. text: 值班员
+2017-11-29 10:21:25 WARNING app.py app_is_display [line:503] Text is not displayed. text: 系统管理员
+2017-11-29 10:21:25 INFO app.py app_is_display [line:500] Text is displayed. text: 调试员
+2017-11-29 10:21:25 INFO app.py app_is_display [line:500] Text is displayed. text: 值班管理员
+2017-11-29 10:21:29 WARNING app.py app_is_main_page [line:529] app is not in main page now.
+2017-11-29 10:21:40 WARNING app.py app_is_main_page [line:529] app is not in main page now.
+2017-11-29 10:21:42 INFO app.py app_is_main_page [line:526] app is in main page now.
+2017-11-29 10:21:49 INFO app.py app_logout [line:134] Logout current user. is_sure: True
+2017-11-29 10:21:49 INFO app.py app_login [line:82] Click login
+2017-11-29 10:22:02 INFO app.py app_menu [line:337] Enter menu surface
+2017-11-29 10:22:03 INFO app.py app_menu [line:342] Enter user surface
+2017-11-29 10:22:05 INFO app.py app_setting_user [line:457] Enter Add User Surface in User Manage
+2017-11-29 10:22:06 INFO app.py app_is_display [line:500] Text is displayed. text: 值班员
+2017-11-29 10:22:11 WARNING app.py app_is_display [line:503] Text is not displayed. text: 调试员
+2017-11-29 10:22:11 INFO app.py app_is_display [line:500] Text is displayed. text: 值班管理员
+2017-11-29 10:22:14 WARNING app.py app_is_main_page [line:529] app is not in main page now.
+2017-11-29 10:22:27 WARNING app.py app_is_main_page [line:529] app is not in main page now.
+2017-11-29 10:22:28 INFO app.py app_is_main_page [line:526] app is in main page now.
+2017-11-29 10:22:36 INFO app.py app_logout [line:134] Logout current user. is_sure: True
+2017-11-29 10:22:37 INFO app.py app_login [line:82] Click login
+2017-11-29 10:22:54 WARNING app.py app_is_main_page [line:529] app is not in main page now.
+2017-11-29 10:22:55 INFO app.py app_password [line:152] Click button_close2 in Password Surface
+2017-11-29 10:22:56 INFO app.py app_is_main_page [line:526] app is in main page now.
+2017-11-29 10:22:56 INFO app.py app_login [line:82] Click login
+2017-11-29 10:23:10 INFO app.py app_menu [line:337] Enter menu surface
+2017-11-29 10:23:11 INFO app.py app_menu [line:342] Enter user surface
+2017-11-29 10:23:12 INFO app.py app_setting_user [line:457] Enter Add User Surface in User Manage
+2017-11-29 10:23:38 INFO app.py app_add_user [line:632] Add user with args. name: Qc1x, type: 调试员. password: 11114444. password_again: 11114445. time_spinning: None. is_save: False
+2017-11-29 10:23:44 WARNING app.py app_add_user [line:639] Add user fail.
+2017-11-29 10:23:44 INFO app.py app_is_display [line:500] Text is displayed. text: 两次输入的密码不一致，请重新输入
+2017-11-29 10:23:58 WARNING app.py app_is_main_page [line:529] app is not in main page now.
+2017-11-29 10:24:26 WARNING app.py app_is_main_page [line:529] app is not in main page now.
+2017-11-29 10:24:53 WARNING app.py app_is_main_page [line:529] app is not in main page now.
+2017-11-29 10:25:17 WARNING app.py app_is_main_page [line:529] app is not in main page now.
+2017-11-29 10:25:45 WARNING app.py app_is_main_page [line:529] app is not in main page now.
+2017-11-29 10:26:14 WARNING app.py app_is_main_page [line:529] app is not in main page now.
+2017-11-29 10:26:40 WARNING app.py app_is_main_page [line:529] app is not in main page now.
+2017-11-29 10:27:10 WARNING app.py app_is_main_page [line:529] app is not in main page now.
+2017-11-29 10:27:36 WARNING app.py app_is_main_page [line:529] app is not in main page now.
+2017-11-29 10:28:02 WARNING app.py app_is_main_page [line:529] app is not in main page now.
